@@ -1,0 +1,9 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<circle id="Ellipse" cx="40" cy="40" r="40" fill="#FFE3DE"/>
+<g id="notification-2">
+<path id="Path_121" fill-rule="evenodd" clip-rule="evenodd" d="M42.172 24.9741C41.1698 28.5247 42.1649 32.3397 44.7737 34.9484C47.3824 37.5571 51.1974 38.5522 54.748 37.5501V49.0411C54.748 52.1085 52.2613 54.5951 49.194 54.5951H30.681C27.6136 54.5951 25.127 52.1085 25.127 49.0411V30.5281C25.127 27.4607 27.6136 24.9741 30.681 24.9741H42.172Z" fill="#FF715B"/>
+<circle id="Ellipse_25" opacity="0.3" cx="51.5" cy="28.5" r="4.5" fill="#FF715B"/>
+</g>
+</g>
+</svg>
